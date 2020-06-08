@@ -26,4 +26,18 @@ The rqt_top data: ![](images/gmap_top.png)
 
 ---
 
+## GPU info
+
+**OpenVSLAM** : data without gazebo running, input is a video file
+
+![](images/openvslam_gpu.png)
+
+**GMapping** : running with gazebo and rviz
+
+![](images/champ_gpu.png)
+
+---
+
+## Odometry Drift
+
 
