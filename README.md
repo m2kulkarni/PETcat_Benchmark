@@ -40,4 +40,7 @@ The rqt_top data: ![](images/gmap_top.png)
 
 ## Odometry Drift
 
+**Openvslam** : Running run_slam on the aist dataset gave three .txt files. They contain frame coordinates, keyframe coordinates and the track timings for each frame. 
+![](images/openvslam_traj.png)
+
 
